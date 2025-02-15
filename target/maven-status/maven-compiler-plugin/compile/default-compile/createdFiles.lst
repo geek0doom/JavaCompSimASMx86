@@ -1,0 +1,7 @@
+osSim\Memory.class
+osSim\LTS.class
+osSim\PCB.class
+module-info.class
+osSim\CPU.class
+osSim\Dispatcher.class
+osSim\Simulator.class
