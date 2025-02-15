@@ -5,3 +5,7 @@ The operating system simulation was designed to be split into seven different mo
 ![image](https://github.com/user-attachments/assets/5095243b-4e37-4fa5-9206-53fe4c885291)
 
 https://www.youtube.com/embed/aesEmOlsIQI?feature=oembed
+
+
+ChazngeLogs:
+**Todo
